@@ -1,6 +1,6 @@
-## Gol Language (GolLang)
+## Goal Language (Goal Lang)
 
-Gollang is a superset of the popular [Go programming language](https://go.dev)
+Goal is a superset of the popular [Go programming language](https://go.dev).
 
 <!--
 
